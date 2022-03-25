@@ -6,7 +6,7 @@
   - 💞️ I’m looking to collaborate on ...
     -nothing rn, but maybe a chat service on github pages!
   - 📫 How to reach me ...
-    -Contact me on my Discord! XiaoBao13#7146
+    -Contact me on my Discord! "Fluffy Gaia#7146"
 
 <!---
 XiaoBao13/XiaoBao13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
